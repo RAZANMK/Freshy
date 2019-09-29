@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "822923163060",
+    "firebase_url": "https://freshy-fb.firebaseio.com",
+    "project_id": "freshy-fb",
+    "storage_bucket": "freshy-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822923163060:android:6f574f57336514f6c3aee1",
+        "android_client_info": {
+          "package_name": "com.freshy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822923163060-9lb02jrv1n3aekosu6b351on7ug5qple.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADdzlMlkQ7L0nU_2bgu6iL3JDvMERpulw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822923163060-9lb02jrv1n3aekosu6b351on7ug5qple.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
